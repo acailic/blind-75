@@ -2,7 +2,6 @@ package org.example.leetcode.test2;
 
 import java.util.Arrays;
 
-//Company - Fivetran
 //        Role - SDE 2 (Connectors)
 //        Stage - Online Assessment
 //        Platform - Hackerrank
